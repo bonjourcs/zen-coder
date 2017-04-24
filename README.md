@@ -1,15 +1,17 @@
-# ¹ØÓÚ±¾Êé
+# å…³äºŽæœ¬ä¹¦
 
-# °æÈ¨ÉùÃ÷
+ä¸ªäººæˆé•¿è®°å½•
 
-±¾µç×ÓÊé²ÉÓÃ¹ú¼ÊÍ¨ÓÃµÄ[ CC BY-NC-SA ](https://creativecommons.org/licenses/by-nc-sa/4.0/)£¨ÊðÃû-·ÇÉÌÒµÓÃÍ¾-ÏàÍ¬·½Ê½¹²Ïí£©·½Ê½¹²Ïí¡£¼´£¬ÔÚ´ËÏÞÖÆÏÂ£¬Äú¿ÉÒÔ¶Ô±¾×÷Æ·½øÐÐ£º
+# ç‰ˆæƒå£°æ˜Ž
 
-- ²»ÊÜÏÞÖÆµÄ¸´ÖÆ¡¢´«²¥¡¢Ê¹ÓÃ
-- ÔÙ´´×÷¡¢µ÷ÕûÄÚÈÝ
+æœ¬ç”µå­ä¹¦é‡‡ç”¨å›½é™…é€šç”¨çš„[ CC BY-NC-SA ](https://creativecommons.org/licenses/by-nc-sa/4.0/)ï¼ˆç½²å-éžå•†ä¸šç”¨é€”-ç›¸åŒæ–¹å¼å…±äº«ï¼‰æ–¹å¼å…±äº«ã€‚å³ï¼Œåœ¨æ­¤é™åˆ¶ä¸‹ï¼Œæ‚¨å¯ä»¥å¯¹æœ¬ä½œå“è¿›è¡Œï¼š
 
-µ«ÊÇ£¬Äú±ØÐë£º
+- ä¸å—é™åˆ¶çš„å¤åˆ¶ã€ä¼ æ’­ã€ä½¿ç”¨
+- å†åˆ›ä½œã€è°ƒæ•´å†…å®¹
 
-- ±êÊ¶×÷ÕßÃû³Æ£¨bonjourcs@github¡¢bonjourcs@gitbook£©
-- ²»¿É½«¸Ã×÷Æ·ÓÃÓÚÉÌÒµÓÃÍ¾
-- ²»ÄÜ¸ü¸Ä×÷Æ·µÄÊÚÈ¨·½Ê½
+ä½†æ˜¯ï¼Œæ‚¨å¿…é¡»ï¼š
+
+- æ ‡è¯†ä½œè€…åç§°ï¼ˆbonjourcs@githubã€bonjourcs@gitbookï¼‰
+- ä¸å¯å°†è¯¥ä½œå“ç”¨äºŽå•†ä¸šç”¨é€”
+- ä¸èƒ½æ›´æ”¹ä½œå“çš„æŽˆæƒæ–¹å¼
 
