@@ -4,7 +4,7 @@
 
 # 分配更高Java 虚拟机的内存
 
-如果虚拟机的内存过小，JVM 频繁 GC 也会使性能下降。以下是一个简单的配置文件：
+如果虚拟机的内存过小，JVM 频繁 GC 也会使性能下降。下面是一个简单的虚拟机配置文件：
 
 ```
  -Xms2048m
@@ -51,7 +51,7 @@
 
 # 使用合适的 JDK
 
-IDEA 使用 Jetbrains 自带的 JDK 编译，理论上讲，使用他们自家的 JDK 能够提升编码体验。更换 IDEA 使用的数据需要用到一个插件：`Get JB SDK from Bintary`。安装插件后，选择合适的 JDK 即可。
+IDEA 使用 Jetbrains 自带的 JDK 编译，理论上讲，使用他们自家的 JDK 能够提升编码体验。更换 IDEA 使用的 JDK 需要用到一个插件：`Get JB SDK from Bintary`。安装插件后，选择合适的 JDK 即可。
 
 ![安装 JB 插件](source/install-plugin.png)
 ![安装 JDK](source/install-jdk.png)
