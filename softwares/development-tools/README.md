@@ -9,3 +9,4 @@ IntelliJ IDEA 是 Jetbrains&copy; 公司出品的一款全平台、功能强大�
 下面是本章的导航：
 
 * [IntelliJ IDEA](idea/README.md)
+* [Postman](postman/README.md)

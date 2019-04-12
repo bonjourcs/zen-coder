@@ -8,3 +8,4 @@
     * [开发工具](softwares/development-tools/README.md)
         * [IntelliJ IDEA](softwares/development-tools/idea/README.md)
             * [IDEA 性能优化](softwares/development-tools/idea/performance-optimization.md)
+        * [Postman](softwares/development-tools/postman/README.md)
